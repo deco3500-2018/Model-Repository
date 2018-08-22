@@ -1,9 +1,6 @@
 # Model-Repository
 Model repository is the model for your repository.
 
-# Model-Repository
-Model repository is the model for your repository.
-
 
 ## Proposal Document Example
 https://github.com/deco3500-2017/HoopsFinder/wiki/Project-Proposal
