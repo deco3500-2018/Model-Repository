@@ -2,7 +2,8 @@
 Model repository is the model for your repository.
 
 
-## Proposal Document Example
+## Proposal Document Format Example
+#### DO NOT TAKE THIS AS A CONTENT EXAMPLE. SUBJECT MATTER FROM LAST YEAR IS DIFFERENT
 https://github.com/deco3500-2017/HoopsFinder/wiki/Project-Proposal
 
 
