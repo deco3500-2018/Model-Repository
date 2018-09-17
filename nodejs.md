@@ -76,6 +76,8 @@ The whole function should be run then returned.
 
 ---
 
+## Setting up a local server
+
 _NPM_ - _node.js_ Package Manager is used to install `node.js` modules.
 
 `package.json` - This is *important*. This is created by running `npm init` in Command Line. It will should be placed in the root of your application so _NPM_ knows how the application is structured. When running `npm init`, you are going to be prompted to enter some information. As an example the first one to show up is `name` with a name in brackets beside it. This name in brackets is a default name and all the titles will have a default or no input. To select the default or leave blank, just press `enter`.
