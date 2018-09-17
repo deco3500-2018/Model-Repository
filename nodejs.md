@@ -12,6 +12,12 @@ _node.js_ is designed to be a server run package which takes advantage of the ja
 
 Depending on the depth you wish to use _node.js_, their [API Documentation](https://nodejs.org/api/) will be a great asset.
 
+## Who is using _node.js_?
+* Netflix
+* Uber
+* Paypal
+* eBay
+
 ### Activity
 
 _node.js_ can run through a packaged `node.exe` file which is a command line shell that can run javascript.
