@@ -18,7 +18,7 @@ Depending on the depth you wish to use _node.js_, their [API Documentation](http
 * Paypal
 * eBay
 
-### Activity
+## Activity
 
 _node.js_ can run through a packaged `node.exe` file which is a command line shell that can run javascript.
 
@@ -51,7 +51,7 @@ This can be done by locating the folder which contains for `.js` file and using 
 >
 >`node app.js` or simply `node app`.
 
-### Activity
+## Activity
 
 Copy the below code and save it as to your computer to run through Command Line.
 
