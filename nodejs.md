@@ -51,6 +51,16 @@ This can be done by locating the folder which contains for `.js` file and using 
 >
 >`node app.js` or simply `node app`.
 
+Be sure when running `.js` files, you have accessed the necessary root directory through the command line where the file is located.
+
+### Directory finding
+
+Use `cd` at the start of your command then `folder name`. You have to been in a root directory of that folder to access it. To see what folders and files are in the current directory, use `ls` in the command line.
+
+If your folder contains spaces:
+* for Windows use `cd "folder name"` to make sure command line reads the space.
+* for Mac use `cd folder\ name` to make sure command line reads the space.
+
 ## Activity
 
 Copy the below code and save it as to your computer to run through Command Line.
@@ -75,7 +85,6 @@ greeting('Hello again World');
 The whole function should be run then returned.
 
 ---
-
 ## Setting up a local server
 
 _NPM_ - _node.js_ Package Manager is used to install `node.js` modules.
